@@ -1,0 +1,4 @@
+/class/classes/hle026/CMakeFiles/rebuild_cache.dir
+/class/classes/hle026/CMakeFiles/bigger_area_calculator.dir
+/class/classes/hle026/CMakeFiles/edit_cache.dir
+/class/classes/hle026/CMakeFiles/area_calcualtor.dir

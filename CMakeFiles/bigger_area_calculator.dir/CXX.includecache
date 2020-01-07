@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/class/classes/hle026/header/rectangle.hpp
+
+/class/classes/hle026/source/new_main.cpp
+iostream
+-
+../header/rectangle.hpp
+/class/classes/hle026/header/rectangle.hpp
+
